@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pr1_RamazanovaMO</string>
+
+    <string name="Hi">Привет!</string>
+    <string name="Base">Это первая практическая работа\n Рамазановой М.О. из ИКБО-06-22</string>
+    <string name="Label">Поле для ввода</string>
+
+</resources>

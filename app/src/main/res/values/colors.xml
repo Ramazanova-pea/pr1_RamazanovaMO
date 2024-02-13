@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Primary">#6750A4</color>
+    <color name="PrimaryContainer">#EADDFF</color>
+    <color name="OnPrimaryContainer">#21005D</color>
+
+    <color name="Secondary">#927AD3</color>
+
+    <color name="Button">#FFD8E4</color>
+    <color name="OnButton">#FFE7EF</color>
+
+</resources>
